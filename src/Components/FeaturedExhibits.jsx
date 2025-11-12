@@ -1,4 +1,4 @@
-import ExhibitCard from "../Components/ExhibitsCard"
+import ExhibitCard from "../Components/Exhibitscard"
 import { exhibitsData } from "../Data/Data"
 
 const FeaturedExhibits = () => {

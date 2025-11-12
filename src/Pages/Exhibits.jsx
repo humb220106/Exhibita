@@ -1,5 +1,5 @@
 import { useState } from "react"
-import ExhibitCard from "../Components/ExhibitsCard"
+import ExhibitCard from "../Components/Exhibitscard"
 import { Search, Filter, Grid, List } from "lucide-react"
 
 import { exhibitsData } from "../Data/Data"
